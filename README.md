@@ -1,2 +1,3 @@
 # Group-Proj-Winnie
-#hey
+## Introduction
+Legal Assistance Winnie 2.0, developed in partnership with Barefoot Law, is a cutting-edge project designed to facilitate legal services across Africa by translating various African languages into English. It leverages advanced Natural Language Processing (NLP) and transformer technologies, uniquely offering sentence-by-sentence translation capabilities not supported for these languages on platforms like Google Translate. This Python-based project is especially valuable for lawyers who, are not proficient in local languages, can now efficiently process client requests in English, making legal assistance more inclusive and accessible.
